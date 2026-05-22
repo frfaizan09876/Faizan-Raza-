@@ -1,0 +1,6 @@
+{
+  "name": "Faizan Bangles",
+  "description": "Premium industrial catalog and management portal for Faizan Bangles, featuring dynamic manufacturing schedules, pipe configurations, customizable pricing, color galleries, and direct manager controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,22 @@
+{
+  "short_name": "Faizan Bangles",
+  "name": "Faizan Bangles Official App",
+  "description": "Premium Glass Craftsmanship & Industrial Piping Specifications",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/000000/bangles.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/bangles.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1c1c18",
+  "theme_color": "#dfaf37",
+  "display": "standalone",
+  "orientation": "portrait"
+}
